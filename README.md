@@ -12,3 +12,7 @@ This is a simulated legal assistant frontend built with React.js. Users can ask 
 ```bash
 npm install
 npm start
+
+## 🎥 Demo Video
+
+👉 [Click here to watch the demo on Google Drive](https://drive.google.com/file/d/1S5LEJegZtnJIXATQ8shc9cA0oK7NK-nL/view?usp=drive_link)
